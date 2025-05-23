@@ -1,0 +1,4 @@
+[submodule "xen"]
+	path = depends/xen
+	url = https://github.com/xen-team/xen.git
+	branch = advanced_render_gl
